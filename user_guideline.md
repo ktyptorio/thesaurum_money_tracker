@@ -74,4 +74,4 @@ Bot ini dirancang untuk memudahkan pencatatan keuangan kamu. Dengan menggunakan 
 
 ---
 
-Dengan menggunakan **Thesaurum Money Tracker Bot**, kamu dapat dengan mudah mengelola keuangan pribadi secara teratur dan mendapatkan insight dari aktivitas keuanganmu. Selamat mencoba dan semoga bermanfaat!!
+Dengan menggunakan **Thesaurum Money Tracker Bot**, kamu dapat dengan mudah mengelola keuangan pribadi secara teratur dan mendapatkan insight dari aktivitas keuanganmu. Selamat mencoba dan semoga bermanfaat!
