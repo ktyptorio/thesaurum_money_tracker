@@ -2,6 +2,8 @@
 
 Selamat datang di **Thesaurum Money Tracker Bot** – solusi praktis untuk membantu kamu mencatat dan mengelola transaksi keuangan melalui Telegram!
 
+Beta Version: [Thesaurum Money Tracker Beta](https://t.me/ktydev_finance_tracker_bot)
+
 ## Apa Itu Thesaurum Money Tracker Bot?
 
 Bot ini dirancang untuk memudahkan pencatatan keuangan kamu. Dengan menggunakan bot ini, kamu bisa:
