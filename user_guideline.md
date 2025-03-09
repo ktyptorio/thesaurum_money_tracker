@@ -53,6 +53,10 @@ Bot ini dirancang untuk memudahkan pencatatan keuangan kamu. Dengan menggunakan 
 5. **Reminder Harian**  
    Setiap hari, bot akan mengingatkan kamu jika belum melakukan pencatatan transaksi di waktu-waktu tertentu. Jadi, pastikan kamu memeriksa pesan dari bot untuk menjaga catatan keuangan tetap ter-update!
 
+6. **Menetapkan Budget Bulanan**  
+   Kamu dapat menetapkan anggaran bulanan untuk setiap kategori pengeluaran secara kasual. Misalnya: "Set budget Makanan 1.000.000 untuk April"
+   Bot akan menyimpan anggaran tersebut di Spreadsheet. Jika ingin mengubahnya, ulangi saja dengan nominal baru. Untuk melihat ringkasan anggaran, gunakan opsi **“Cek Budget”** di menu utama bot.
+
 ## Perintah Tambahan
 
 - **/menu**  
